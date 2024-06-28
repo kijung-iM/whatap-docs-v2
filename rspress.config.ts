@@ -11,24 +11,24 @@ export default defineConfig({
     dark: '/rspress-dark-logo.png',
   },
   locales: [
-    {
-      lang: 'ko-KR',
-      label: 'KOR',
-      title: 'WhaTap Docs',
-      description: '와탭 기술 문서 :: WhaTap, 와탭 기술 문서 페이지에 오신 것을 진심으로 환영합니다.',
-    },
-    {
-      lang: 'en-US',
-      label: 'English',
-      title: 'WhaTap Docs',
-      description: 'Real-time Observability Platform | WhaTap Docs',
-    },
-    {
-      lang: 'ja-JP',
-      label: 'JPN',
-      title: 'WhaTap Docs',
-      description: 'リアルタイム・オブザーバビリティ・プラットフォーム | WhaTap Docs',
-    },
+    // {
+    //   lang: 'ko-KR',
+    //   label: 'KOR',
+    //   title: 'WhaTap Docs',
+    //   description: '와탭 기술 문서 :: WhaTap, 와탭 기술 문서 페이지에 오신 것을 진심으로 환영합니다.',
+    // },
+    // {
+    //   lang: 'en-US',
+    //   label: 'English',
+    //   title: 'WhaTap Docs',
+    //   description: 'Real-time Observability Platform | WhaTap Docs',
+    // },
+    // {
+    //   lang: 'ja-JP',
+    //   label: 'JPN',
+    //   title: 'WhaTap Docs',
+    //   description: 'リアルタイム・オブザーバビリティ・プラットフォーム | WhaTap Docs',
+    // },
   ],
   markdown: {
     mdxRs: false,
